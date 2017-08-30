@@ -95,8 +95,8 @@ class Sutjwcxx(object):
 
 
 if __name__ == '__main__':
-    username = '161203109'
-    password = '098010'
+    username = 'xxxxxxxxx'
+    password = 'xxxxxx'
     userlogin = Sutjwcxx(username, password)
     userlogin.login()
     userlogin.getxx()
